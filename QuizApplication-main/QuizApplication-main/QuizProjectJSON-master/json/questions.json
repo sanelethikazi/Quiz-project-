@@ -1,0 +1,44 @@
+[
+  {
+    "question": "What is the fastest land animal on earth?",
+    "choice1": "Cheetah",
+    "choice2": "greyhound",
+    "choice3": "Lion",
+    "choice4": "Springbok",
+    "answer": 1
+  },
+  {
+    "question": "who was the first black president in USA?",
+    "choice1": "Barack Obama",
+    "choice2": "Nelson Mandela",
+    "choice3": "Lewis Hamilton",
+    "choice4": "Martin Luther King",
+    "answer": 1
+  },
+  {
+    "question": "What is the largest country in the world by area?",
+    "choice1": "Canada",
+    "choice2": "Brazil",
+    "choice3": "India",
+    "choice4": "Russia",
+    "answer": 4
+  },
+  {
+    "question": "Which sport did Diego Maradonna play?",
+    "choice1": "Tennis",
+    "choice2": "Soccer",
+    "choice3": "Football",
+    "choice4": "Cricket",
+    "answer": 2
+  },
+  
+  {
+    "question": "What is the largest bone in the human body?",
+    "choice1": "Fibula/lowerleg",
+    "choice2": "Tibia/shinbone",
+    "choice3": "Femur/thigh bone",
+    "choice4": "Scapula",
+    "answer": 3
+  }
+  
+]
